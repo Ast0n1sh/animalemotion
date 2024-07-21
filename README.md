@@ -15,5 +15,5 @@ GitHub imposes a limit on the size of files that can be uploaded to a repository
   - `File Splitter & Reassembler.py` : Script and GUI for splitting files and reassembling files.
 
   - `AnimAL Project.py` : The project source code
-  - 
+    
 Note: Since model is already splitted just use the code block 2 of "File Splitter & Reassembler.py" for reassembling the splitted files. A GUI should open after executing the code then Select the folder which contains the splitted model files and choose the path and name to save it into single file.
