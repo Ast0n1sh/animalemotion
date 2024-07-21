@@ -12,10 +12,10 @@ GitHub imposes a limit on the size of files that can be uploaded to a repository
 - `demonstration/` : Contains a video demonstration showcasing the model running with the GUI.
 - `model/` : Contains the trained model and all related files.
 - `src/` : Contains all source code, including scripts for training, testing, and the GUI implementation.
-  - `file_splitter.py` : Script and GUI for splitting files.
-  - `file_reassembler.py` : Script and GUI for reassembling files.
+  - `File Splitter & Reassembler.py` : Script and GUI for splitting files and reassembling files.
 
-### How to Use
+  - `AnimAL Project.py`
+### How to Use Split and Reassemble. Note: Here you just need to use ressembler code to join file, ignore splitter code block
 
 #### Splitting a File
 
